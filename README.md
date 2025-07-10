@@ -1,10 +1,10 @@
-# 🌐 Next.js: The React Framework for Production
+# Next.js: The React Framework for Production
 
 **Next.js** is a powerful open-source React framework for building fast, user-friendly web applications with full-stack capabilities. Developed by [Vercel](https://vercel.com), it enables hybrid rendering, SEO optimization, and seamless deployment — all with minimal setup.
 
 ---
 
-## 🚀 Why Use Next.js?
+## Why Use Next.js?
 
 ### 1. Full-Stack Capabilities
 Build both frontend and backend in the same codebase:
